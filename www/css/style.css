@@ -1,0 +1,8 @@
+#resposta{
+  width:80vh;
+  max-height:40vh;
+}
+
+#tem, #nao{
+  display: none;
+}
